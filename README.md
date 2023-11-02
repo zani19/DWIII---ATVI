@@ -1,5 +1,5 @@
-# ATV-I-PL
-Atividade I - DESENVOLVIMENTO WEB I
+# ATV-I
+Atividade I - Técnica de Programação II
 
 
 ## Objetivo
